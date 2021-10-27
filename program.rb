@@ -5,6 +5,8 @@ for num in 1..100
     puts "Fizz\n"
   elsif num % 5 == 0
     puts "Buzz\n"
+  elsif num % 7 ==0
+    puts "git\n"
   else 
     puts num + "\n"
   end
