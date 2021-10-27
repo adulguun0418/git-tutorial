@@ -8,7 +8,7 @@ for num in 1..100
   elsif num % 7 ==0
     puts "git\n"
   else 
-    puts num + "\n"
+    puts "#{num}\n"
   end
 end
 #added commnet
